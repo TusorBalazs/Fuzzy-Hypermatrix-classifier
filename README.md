@@ -2,6 +2,7 @@
 A very fast and simple (though memory-intensive) classification method.
 
 Related papers:
+
 Tusor, B., Várkonyi-Kóczy, A.R.: “Fuzzy Classifier Hyper-matrices for Rapid Data Classification,” Japanese Journal of Applied Physics (JJAP), pp. 011610-1-6, 2016.
 
 Várkonyi-Kóczy, A.R., Tusor, B., and Tóth, J.T.: “A Fuzzy Hypermatrix-based Skin Color Filtering Method”, in Proc. of the 2015 IEEE 19th International Conference on Intelligent Eng. Sys., INES 2015, Bratislava, Slovakia, Sept. 3-5, 2015.
